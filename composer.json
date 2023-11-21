@@ -1,0 +1,17 @@
+{
+    "name": "urpapuh/textfiles",
+    "description": "Practica de lectura y escritura de ficheros de texto.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Urpapuh\\Textfiles\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UrPapuh",
+            "email": "andrewgr073@gmail.com"
+        }
+    ],
+    "require": {}
+}
